@@ -21,19 +21,6 @@ This project was developed as part of a **Computer Graphics** course to demonstr
 
 ---
 
-## Group Members and Contribution
-
-| Sl. No. | Name | Student ID | Role | Contribution |
-|---|---|---|---|---|
-| 1 | Shafayat Jamil | 23-55457-7 | Gameplay Logic & Integration Developer | Implemented and integrated the main gameplay flow, player movement, level selection, score updates, level-completion return-to-menu logic, and final testing/debugging. |
-| 2 | Abrar Kabir | 23-55095-3 | Graphics & Scene Designer | Designed and refined OpenGL-based visual scenes, backgrounds, character/environment drawing support, level atmosphere, scenery planning, and screenshot preparation guidance. |
-| 3 | Md. Towhidul Islam | 23-55036-3 | Collision & Obstacle System Developer | Worked on randomized obstacle behaviour, hazard placement, obstacle movement, collision consistency, hitbox/cooldown improvement, and gameplay balancing across levels. |
-| 4 | Aditya Roy | 23-55077-3 | Audio, File Handling & Documentation Support | Handled custom background music setup, `music_config.txt` use, high-score text-file saving, Code::Blocks setup instructions, documentation organization, and report preparation support. |
-
-Each group member contributed **25%** to the project.
-
----
-
 ## Game Scenario
 
 The game follows a simple adventure-style scenario. The player controls a Doraemon-inspired character who travels through different environments to collect doracakes. Each level contains collectible doracakes, hearts, and several hazards. The player must collect all required doracakes while avoiding fire, stones, falling rocks, ghost enemies, lightning, and other moving obstacles.
